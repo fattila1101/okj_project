@@ -1,0 +1,22 @@
+body
+{
+	background: url("../img_bg/bg.jpg");
+	background-attachment: fixed;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.vh
+{
+	height: 100vh;
+}
+form
+{
+	padding: 20px 80px 20px 80px;
+	background: white;
+	border-radius: 20px;
+	box-shadow: 0 0 15px black;
+}
+.error
+{
+	height: 60px;
+}
